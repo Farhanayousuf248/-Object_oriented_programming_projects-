@@ -1,0 +1,47 @@
+# 🚀 Object-Oriented Programming Projects in Python
+
+This repository contains Python projects based on Object-Oriented Programming (OOP). These projects help you understand and implement core OOP principles like classes, objects, encapsulation, inheritance, abstraction, and polymorphism.
+
+## 🧠 What You'll Learn:
+- ✅ Classes & Objects
+- ✅ Encapsulation
+- ✅ Inheritance
+- ✅ Abstraction
+- ✅ Polymorphism
+- ✅ Real-world OOP design patterns
+
+## 📦 Projects Included:
+1. **🏦 Bank Management System**  
+   Deposit, withdraw, and check balances using OOP classes.
+
+2. **📚 Library Management System**  
+   Add, issue, and return books with role-based logic.
+
+3. **🧾 Billing System**  
+   Handle items, pricing, and discounts using encapsulated methods.
+
+4. **🎮 Tic Tac Toe Game**  
+   A simple game demonstrating object interaction.
+
+5. **🐶 Pet Adoption App**  
+   Manage pet records using inheritance and class relationships.
+
+## 📁 Folder Structure:
+Each project includes:
+- 🔹 Python source code (`.py`)
+- 🔹 Optional explanation or notes
+- 🔹 Demo screenshots (if applicable)
+
+## 🛠 Technologies Used:
+- **Python 3.x**
+- Simple Command Line Interface (CLI)
+
+## 🙌 Contributing:
+Contributions are welcome!  
+Feel free to fork, enhance the code, or suggest new project ideas.
+
+## 👩‍💻 Created by: Farhana Yousuf
+
+📌 **Facebook:** [facebook.com/farhanayousuf](https://www.facebook.com/profile.php?id=61565629713822)  
+📌 **GitHub:** [github.com/Farhanayousuf248](https://github.com/Farhanayousuf248)  
+📌 **GIAIC Agentic AI Student** | Passionate Python Developer 💡
